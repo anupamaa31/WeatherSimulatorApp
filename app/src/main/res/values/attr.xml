@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularProgressBar">
+        <attr name="startAngle" format="integer" />
+        <attr name="arcFullRotationAngle" format="integer" />
+        <attr name="size" format="integer" />
+        <attr name="percentageDivider" format="integer"/>
+        <attr name="trackLineGap" format="integer"/>
+        <attr name="trackWidth" format="integer"/>
+        <attr name="trackLineThickness" format="integer"/>
+    </declare-styleable>
+</resources>
